@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### basic test coverage for  [postcss-cli (v3.1.1)](https://github.com/postcss/postcss-cli#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-postcss-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-postcss-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-postcss-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-postcss-cli)",
+    "description": "#### basic test coverage for  [postcss-cli (v3.2.0)](https://github.com/postcss/postcss-cli#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-postcss-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-postcss-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-postcss-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-postcss-cli)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "postcss-cli": "*",

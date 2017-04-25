@@ -1,6 +1,6 @@
 # npmtest-postcss-cli
 
-#### basic test coverage for  [postcss-cli (v3.1.1)](https://github.com/postcss/postcss-cli#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-postcss-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-postcss-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-postcss-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-postcss-cli)
+#### basic test coverage for  [postcss-cli (v3.2.0)](https://github.com/postcss/postcss-cli#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-postcss-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-postcss-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-postcss-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-postcss-cli)
 
 #### CLI for PostCSS
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-postcss-cli/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-postcss-cli/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-postcss-cli/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-postcss-cli/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-postcss-cli/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-postcss-cli/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-postcss-cli/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-postcss-cli/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-postcss-cli/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-postcss-cli/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-postcss-cli/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-postcss-cli/build/coverage.html/index.html)
 
@@ -75,8 +75,8 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "cccc4f8db12ad7e3058bf87aade68eaef2b4b7f1",
-        "tarball": "https://registry.npmjs.org/postcss-cli/-/postcss-cli-3.1.1.tgz"
+        "shasum": "6128d913e250d07f41834cc76f714882cfa247ab",
+        "tarball": "https://registry.npmjs.org/postcss-cli/-/postcss-cli-3.2.0.tgz"
     },
     "engines": {
         "node": ">=4"
@@ -86,7 +86,7 @@
         "index.js",
         "lib"
     ],
-    "gitHead": "32e540b24963fcb8a4eddcb551c28ae7baf6649b",
+    "gitHead": "1dac9bc5dd75488197fde1a83909a907e20cf588",
     "homepage": "https://github.com/postcss/postcss-cli#readme",
     "keywords": [
         "cli",
@@ -121,7 +121,7 @@
         "pretest": "npm run clean && npm run lint",
         "test": "nyc ava -v"
     },
-    "version": "3.1.1"
+    "version": "3.2.0"
 }
 ```
 
